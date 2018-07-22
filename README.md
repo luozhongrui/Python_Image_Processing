@@ -1,5 +1,6 @@
 # Python_Image_Processing
-###.TraditionalHeartBeat:
+_____
+###TraditionalHeartBeat:
         The frequency of the maximum energy extracted by the Fourier variation of the average value of the green channel is the estimated heart rate.
-###.HeartbeatLE:
+###HeartbeatLE:
         Extracting the heart rate signal using LE reduction
